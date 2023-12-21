@@ -1,8 +1,6 @@
 """Weather API"""
 
-import api_key
-import api_url
-import api_view
+from testAPI import api_key, api_url, api_view
 import requests
 
 api_key = api_key.set_api()
