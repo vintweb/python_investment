@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="com.gitlab.msciachero.GitlabSettingsState">
+    <option name="automaticRefresh" value="false" />
     <option name="gitlabHost" value="https://prgitlab.wiseinvestings.com" />
     <option name="globalApiKey" value="true" />
+    <option name="pipelineStatusNotification" value="false" />
     <option name="projectId" value="4" />
+    <option name="showComments" value="false" />
   </component>
 </project>
